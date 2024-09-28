@@ -1,0 +1,1 @@
+**ContactFileMaker** is a simple software tool that allows you to easily create and manage contact files. With this tool, you can generate contact files in various formats such as CSV and VCF, making it easy to transfer, store, and share contact information in an organized and user-friendly manner.
